@@ -1,0 +1,18 @@
+h2{
+    color: green;
+}
+#container{
+    padding-left: 30px;
+    border: 2px solid red;
+    padding-top:100px ;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    color: darkblue;
+    
+}
+p{
+    color: blue;
+}
